@@ -1,0 +1,4 @@
+name: zmk-keyboard-number-pad
+build:
+  settings:
+    board_root: .
