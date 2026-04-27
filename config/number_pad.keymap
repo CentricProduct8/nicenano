@@ -7,7 +7,7 @@
         compatible = "zmk,combos";
 
         bluetooth_cycle {
-            bindings = <&bt BT_NXT>;
+            bindings = <&bt BT_CLR_ALL>;
             key-positions = <3 1>;
         };
     };
